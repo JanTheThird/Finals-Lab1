@@ -28,7 +28,7 @@ body {
   }
 
   nav a :hover{
-    color: lightblue;
+    color: #7289da;
   }
 
   section p, h2, li{
@@ -91,4 +91,5 @@ body {
     text-align: center;
     font-size: small;
   }
+
 
