@@ -1,0 +1,94 @@
+body {
+    background-color:   lightblue;
+  }
+
+  header {
+    background-color:#36393e;
+    text-align: center;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  header p, h1 {
+    color: white;
+  }
+
+  nav {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 600px;
+    margin-right: 600px;
+    background-color: #36393e;
+  }
+
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+
+  nav a :hover{
+    color: lightblue;
+  }
+
+  section p, h2, li{
+    color: white;
+  }
+
+
+
+  #home {
+    background-color: #36393e;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+
+  #about {
+    background-color: #36393e;
+    border: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+
+  }
+
+  #projects {
+    background-color: #36393e;
+    border: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+
+  }
+
+  #contact {
+    background-color: #36393e;
+    ;
+    border: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+
+  }
+
+  li{
+    padding: 10px;
+    list-style: none;    
+  }
+
+  footer {
+    background-color: #424549;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 600px;
+    margin-right: 600px;
+
+  }
+
+  footer p {
+    color: white;
+    text-align: center;
+    font-size: small;
+  }
+
